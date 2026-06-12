@@ -17,20 +17,20 @@ An AI-powered career assistant built using Python and Streamlit.
 
 ### ATS Score
 
-![ATS Score](screenshots/ats_score.png)
+![ATS Score](screenshots/ATS%20score.png)
 
 ### Resume Feedback
 
-![Resume Feedback](screenshots/resume_feedback.png)
+![Resume Feedback](screenshots/Resume%20feedback%20&%20JD%20matching.png)
 
 ### JD Matching
 
-![JD Matching](screenshots/jd_matching.png)
+![JD Matching](screenshots/Resume%20preview.png)
 
 ### Skill Gap Analysis
 
-![Skill Gap](screenshots/skill_gap.png)
+![Skill Gap](screenshots/Detected%20skills.png)
 
 ### Career Roadmap
 
-![Career Roadmap](screenshots/career_roadmap.png)
+![Career Roadmap](screenshots/Career%20roadmap%20&%20profile%20strength.png)
